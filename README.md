@@ -1,4 +1,7 @@
 # ckdupes
+
+Inspiration: https://github.com/platypusguy/FileDedupe
+
 All duplicate files are reported while walking the directory tree on the command line.  Nothing is altered.
 
 Definition of a duplicate: the file byte size and checksum match an existing entry.  The file path is irrelevant to matching.
